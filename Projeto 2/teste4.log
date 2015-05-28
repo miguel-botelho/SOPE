@@ -1,0 +1,30 @@
+Tue May 26 16:19:27 201| Balcao | 1      |           Criada MemPartilhada | -         
+Tue May 26 16:19:27 201| Balcao | 1      |          FIFO do Balcao Criado | fb_4224   
+Tue May 26 16:19:28 201| Balcao | 2      |          FIFO do Balcao Criado | fb_4228   
+Tue May 26 16:19:28 201| Balcao | 3      |          FIFO do Balcao Criado | fb_4233   
+Tue May 26 16:19:29 201| Balcao | 4      |          FIFO do Balcao Criado | fb_4237   
+Tue May 26 16:19:34 201| Cliente| 4      |       Cliente pede Atendimento | /tmp/fc_4242
+Tue May 26 16:19:34 201| Balcao | 4      |     Balcao começa Atendimento | /tmp/fc_4242
+Tue May 26 16:19:34 201| Cliente| 3      |       Cliente pede Atendimento | /tmp/fc_4241
+Tue May 26 16:19:34 201| Balcao | 3      |     Balcao começa Atendimento | /tmp/fc_4241
+Tue May 26 16:19:34 201| Cliente| 2      |       Cliente pede Atendimento | /tmp/fc_4244
+Tue May 26 16:19:34 201| Cliente| 1      |       Cliente pede Atendimento | /tmp/fc_4243
+Tue May 26 16:19:34 201| Balcao | 2      |     Balcao começa Atendimento | /tmp/fc_4244
+Tue May 26 16:19:34 201| Balcao | 1      |     Balcao começa Atendimento | /tmp/fc_4243
+Tue May 26 16:19:35 201| Balcao | 4      |     Balcao termina Atendimento | /tmp/fc_4242
+Tue May 26 16:19:35 201| Cliente| 4      |    Cliente termina Atendimento | /tmp/fc_4242
+Tue May 26 16:19:35 201| Cliente| 3      |    Cliente termina Atendimento | /tmp/fc_4241
+Tue May 26 16:19:35 201| Balcao | 3      |     Balcao termina Atendimento | /tmp/fc_4241
+Tue May 26 16:19:35 201| Balcao | 1      |     Balcao termina Atendimento | /tmp/fc_4243
+Tue May 26 16:19:35 201| Balcao | 2      |     Balcao termina Atendimento | /tmp/fc_4244
+Tue May 26 16:19:35 201| Cliente| 2      |    Cliente termina Atendimento | /tmp/fc_4244
+Tue May 26 16:19:35 201| Cliente| 1      |    Cliente termina Atendimento | /tmp/fc_4243
+Tue May 26 16:19:39 201| Balcao | 1      |              Balcao é fechado | -         
+Tue May 26 16:19:39 201| Balcao | 1      |      Balcao pára Atendimentos | -         
+Tue May 26 16:19:40 201| Balcao | 2      |              Balcao é fechado | -         
+Tue May 26 16:19:40 201| Balcao | 3      |              Balcao é fechado | -         
+Tue May 26 16:19:40 201| Balcao | 3      |      Balcao pára Atendimentos | -         
+Tue May 26 16:19:40 201| Balcao | 2      |      Balcao pára Atendimentos | -         
+Tue May 26 16:19:41 201| Balcao | 4      |              Balcao é fechado | -         
+Tue May 26 16:19:41 201| Balcao | 4      |      Balcao pára Atendimentos | -         
+Tue May 26 16:19:41 201| Balcao | 4      |                     Loja fecha | -         

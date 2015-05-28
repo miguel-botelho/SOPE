@@ -1,0 +1,6 @@
+make
+./balcao teste4 12
+./balcao teste4 12
+./balcao teste4 12
+./balcao teste4 12
+./ger_cl teste4 4
